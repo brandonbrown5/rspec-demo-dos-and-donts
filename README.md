@@ -1,24 +1,5 @@
-# README
+# RSpec tests: Do's and Don'ts
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this repo is to show some examples of good and bad RSpec code tests.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tests can be found in `spec/models/user_spec.rb`
